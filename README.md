@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React & Material UI Project Using The PixaBay API
+
+from video by Traversy Media (Brad Traversy)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
